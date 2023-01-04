@@ -26,3 +26,10 @@ h3 {
   text-align: center;
   display: block;
 }
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
