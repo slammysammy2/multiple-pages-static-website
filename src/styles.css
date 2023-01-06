@@ -13,18 +13,14 @@ h1 {
   font-weight: bold;
 }
 
-p {
+h2,
+h3 {
   display: block;
+  text-align: center;
   margin-block-start: 1em;
   margin-block-end: 1em;
   margin-inline-start: 0px;
   margin-inline-end: 0px;
-}
-
-h2,
-h3 {
-  text-align: center;
-  display: block;
 }
 
 .croissant-photo {
